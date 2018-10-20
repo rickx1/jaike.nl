@@ -18,6 +18,10 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+#fotocredits {
+    font-family: {{ site.data.template.font.primary }};
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
@@ -245,7 +249,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-brand {
-        font-size: 2em;
+        font-size: 4em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -451,7 +455,7 @@ section h3.section-subheading {
 
 .timeline>li {
     position: relative;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     min-height: 50px;
 }
 
@@ -551,7 +555,7 @@ section h3.section-subheading {
     }
 
     .timeline>li {
-        margin-bottom: 100px;
+        margin-bottom: 0px;
         min-height: 100px;
     }
 
