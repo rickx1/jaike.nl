@@ -6,48 +6,14 @@ title: Jaike Belfor
 email: your-email@domain.com
 description: Dit is de website van Jaike Belfor. In ben ik afgestudeerd aan de acteursopleiding in Utrecht (HKU). Ik ben een actrice en theatermaker. Ik heb gespeeld in verschillende theatervoorstelling. Op televisie was ik te zien in de televisieserie Celblok H als Boomer. En natuurlijk ook als finalist van de slimste mens 2018.
 
-
-# Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
     url: https://www.facebook.com/profile.php?id=100015482732211
   - title: instagram
-    url: https://www.instagram.com/jaikebelfor/    
+    url: https://www.instagram.com/jaikebelfor/
+  - title: imdb
+    url: https://www.imdb.com/name/nm2321536/    
   - title: github
     url: https://github.com/rickx1/jaike.nl
 

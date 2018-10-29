@@ -6,10 +6,9 @@ modal-id: 5
 date: 2014-07-14
 img: Jaike_Celblok_H_s1_afl1.png
 thumbnail: 87897110e2e6c998cf729ce99584b86e-jaike.jpg
+more_url: https://www.sbs6.nl/programmas/celblok-h/
+more_title: www.sbs6.nl/programmas/celblok-h
 alt: image-alt
-project-date: Maart 2014
-client: Start Bootstrap
-category: Web Development
 description: Celblok H (werktitel Wentworth) is een Nederlandse dramaserie die draait om twee verschillende groepen gevangenen in een vrouwengevangenis. De productie is in handen van Willem Zijlstra. Celblok H werd voor het eerst uitgezonden op maandag 3 maart 2014 bij SBS 6. De serie is een Nederlandse bewerking van de Australische serie WentWorth.
 
 ---
