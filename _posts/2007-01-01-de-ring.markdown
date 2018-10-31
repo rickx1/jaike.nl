@@ -1,0 +1,11 @@
+---
+title: De Ring
+subtitle: Toneelvoorstelling
+layout: default
+modal-id: 6
+date: 2007-01-01
+img: de_ring.jpg
+thumbnail: dd1332b4b6ba91854c4112f2f3fdf04a-dering_thumb.png
+alt: de-ring
+description: Vroeger moest je jezelf vier avonden lang door een zestien uur durende opera van Wagner worstelen. Nu niet meer. Het MUZ heeft Der Ring des Nibelungen bewerkt tot een snelle, herkenbare en geestige vertelling van slechts twee uur! Acteurs stappen in of uit hun rol, wisselen onderling van personage en laten decors verschijnen en weer verdwijnen. <p>Het verhaal van De Ring is vergelijkbaar met een soap en gaat kortweg over alles, macht, hebzucht, intrige, jaloezie, wraak, liefde, leven en dood, het zit er allemaal in. En een ring natuurlijk.<p>Die Ring geeft de drager opperste macht, heerschappij over heel de wereld. Dat kan natuurlijk niet goed gaan. Oppergod Wotan zet alles op alles om de Ring te verkrijgen. Gigantische reuzen, dappere Siegfried en daadkrachtige Brünnhilde gooien echter roet in het eten.
+---

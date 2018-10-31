@@ -1,0 +1,11 @@
+---
+title: Famia
+subtitle: Toneelvoorstelling
+layout: default
+modal-id: 5
+date: 2006-07-01
+img: famia_thumb.png
+thumbnail: 66c9514fef41d58ec20782f13ca9c5f9-famia_thumb.png
+alt: famia
+description: Famía is een voorstelling over een rijk, zwart én ontwricht gezin. De ouders hebben de liefde van hun kinderen altijd gekocht. Tijdens het diner ter ere van zijn 21ste verjaardag besluit zoon Roy zijn nieuwe vriendin Cilly aan de familie voor te stellen. Het meisje is echter veel zwarter dan het gezin en daarmee loopt de reputatie van de familie gevaar. Als dan ook nog blijkt dat met de komst van Cilly familiegeheimen boven water komen, lijkt de familiedynastie in te gaan storten. <p>Een confronterende (werk)voorstelling over loskomen van je achtergrond, valse verleidingen en lang verzwegen geheimen.
+---
