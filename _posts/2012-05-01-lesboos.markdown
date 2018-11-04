@@ -1,0 +1,13 @@
+---
+title: Lesboos
+subtitle: Comedy sketchshow 
+layout: default
+modal-id: 14
+date: 2012-05-01
+img: lesboos.jpg
+thumbnail: 5cf252c8e62c5f0a52ac4d47706a7169-lesbooslogo.jpg
+more_url: http://www.comedycentral.nl/shows/1360-lesboos
+more_title: Comedy Central
+alt: huid
+description: Lesboos is een comedy sketch show over een groep lesbische vriendinnen. Hun verschillende persoonlijkheden botsen wanneer deze groep gekke, man hatende vrouwen ruzies maken en bijleggen op dagelijkse basis. Hilarisch, provocerend en een comedy die de kijk op lesbische vrouwen op televisie voorgoed zal veranderen.
+---

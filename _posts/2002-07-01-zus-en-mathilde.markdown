@@ -3,7 +3,7 @@ title: Zus en Mathilde
 subtitle: Toneelvoorstelling
 layout: default
 modal-id: 4
-date: 2005-07-01
+date: 2002-07-01
 img: zus en mathilde foto3.jpg
 thumbnail: 134aed1bfe631271c5ad41d87509d525-zus_en_mathilde_thumb.png
 alt: zus-en-mathilde

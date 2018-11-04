@@ -2,7 +2,7 @@
 title: Leids Cabaret Festival
 subtitle: Cabaret Festival
 layout: default
-modal-id: 8
+modal-id: 10
 date: 2009-02-01
 img: leids-cabaret.jpg
 thumbnail: db2ce3f3c8753c2ab4e731fa4540dcce-leids_thumb.png

@@ -1,0 +1,15 @@
+---
+title: Huid!
+subtitle: Toneelvoorstelling
+layout: default
+modal-id: 12
+date: 2010-08-01
+img: huid.jpg
+thumbnail: 2057f04476b5179e298d0834097c3821-huid_thumb.png
+more_url: https://youtu.be/Ztrb9QeQxr8
+more_title: Youtube
+alt: huid
+description: Op zijn eenentwintigste verjaardag komt Steve, de oogappel van een Antilliaanse familie, in opstand tegen de normen die het gezin (en vooral zijn moeder) er op na houdt. Hij wil zichzelf en zijn achtergrond accepteren, maar voor haar staat zwart gelijk aan zwak, lui, arm, lelijk en agressief. De gevolgen van zijn acties zijn echter veel groter dan hij had verwacht en in een kettingreactie van bekentenissen en uitbarstingen komt alles wat tot die dag werd doodgezwegen boven tafel.<p><i>&quot;HUID! Is een prachtige voorstelling die vooral qua timing en humor op hoog niveau staat.&quot</i>(CultuurPodium.nl)<p><i>&quot;Door het publiek wordt veel gelachen om de scherpe opmerkingen die in snelle dialogen over en weer over tafel gaan. Maar los van de dialogen zijn ook de gezichtsuitdrukkingen van de acteurs erg amusant, bijvoorbeeld de dochter die je verbaast ziet kijken en vervolgens gniffelen terwijl Silly verbaal wordt neergehaald door Steve’s moeder.&quot</i>(cultuurbewust.nl)<p><i>&quot;De cast bestaande uit Everon Jackson Hooi, Urmie Plein, Jaike Belfor, John Serkei, Naomi Mac Donald en Raymi Sambo weet de emoties perfect te vertolken in een aangrijpend stuk dat het publiek meesleept in het verhaal. Het ene moment ligt de zaal in een deuk en vervolgens kan je een speld horen vallen.&quot</i>(www.soemanta.com)
+
+
+---

@@ -1,0 +1,11 @@
+---
+title:  Medea
+subtitle: Toneelvoorstelling
+layout: default
+modal-id: 8
+date: 2008-04-01
+img: medea.jpg
+thumbnail: 849894253cb45d394db932902d2f043c-medea_thumb.png
+alt: Medea
+description: Een verhaal over de liefde, liefde en nog eens liefde.<p>Koningsdochter Medea wordt misbruikt, vernederd en verlaten door haar grote liefde Jason, die zij heeft geholpen het Gulden Vlies te stelen. Uit verdriet en wraak vermoordt zij haar kinderen. Medea is een verhaal over moord, bedrog, verwachtingen, teleurstellingen, opofferingen maar vooral een verhaal over de liefde, liefde en nog eens liefde. En dat die liefde heel ver kan gaan, wordt verteld door haar bloedeigen kinderen.
+---

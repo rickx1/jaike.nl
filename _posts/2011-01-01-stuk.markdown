@@ -1,0 +1,13 @@
+---
+title: Stuk
+subtitle: Toneelvoorstelling
+layout: default
+modal-id: 13
+date: 2011-01-01
+img: siberiastuk.png
+thumbnail: 7a14e07976995669a7ace4a72b33f32b-siberiastuk.png
+more_url: https://youtu.be/x4yp6Afnb_s
+more_title: Youtube
+alt: huid
+description: Stuk is een jongerenvoorstelling geregisseerd door Jolanda Spoel, naar het gelijknamige boek van de Rotterdamse schrijfster Judith Visser. Elizabeth wordt op school op een vreselijke en onzichtbare manier gepest. Ze verliest hierdoor langzaam maar zeker haar grip op de realiteit en neemt uiteindelijk een onomkeerbaar besluit. De leerlingen zijn getuige van een theatrale thriller tussen de schoolbanken.
+---
