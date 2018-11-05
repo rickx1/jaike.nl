@@ -2,7 +2,7 @@
 title: Dummie de Mummie en de Sfinx van Shakaba
 subtitle: Speelfilm
 layout: default
-modal-id: 66
+modal-id: 19
 date: 2015-12-01
 img: jaike_Dummie_de_Mummie.jpg
 thumbnail: 006fd77cc9079eb8ecba482368eb814a-Dummie_de_Mummie_2015.jpg
